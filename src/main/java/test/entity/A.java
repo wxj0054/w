@@ -12,4 +12,8 @@ public class A {
     @WAutowired
     public BInf b;
 
+    public void a_do() {
+        System.out.println("a_do()...");
+    }
+
 }
